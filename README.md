@@ -50,4 +50,3 @@ It uses **Azure Event Hubs, Databricks, ADLS Gen2, Delta Lake, Azure Data Factor
 
 ---
 
-## 🗂️ Project Structure
